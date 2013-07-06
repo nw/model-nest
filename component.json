@@ -13,7 +13,7 @@
   "development": {
     "component/model": "*",
     "component/assert": "*",
-    "component/domify": "*",
+    "component/domify": "*"
   },
   "scripts": [
     "lib/index.js"

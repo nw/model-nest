@@ -1,0 +1,23 @@
+{
+  "name": "model-nest",
+  "repo": "nw/model-nest",
+  "description": "model nesting for component/model",
+  "version": "0.0.1",
+  "keywords": [
+    "collection",
+    "model",
+    "orm",
+    "db",
+    "database"
+  ],
+  "development": {
+    "component/model": "*",
+    "component/assert": "*",
+    "component/domify": "*",
+  },
+  "scripts": [
+    "lib/index.js"
+  ],
+  "main": "lib/index.js",
+  "license": "MIT"
+}
